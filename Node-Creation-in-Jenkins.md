@@ -58,4 +58,4 @@ To setup Slaves, please follow below steps: -
 
    ![slave-config](./Node Creation in Jenkins.assets/slave-config.png)
 
-5. After clicking on the save, you will get the Java command which you have to run on the remote server for connecting that server as slave to Jenkins master. Before running command, you  have to download agent.jar file into remote server. You can download the jar by running *wget* command. 
+5. After clicking on the save, you will get the Java command which you have to run on the remote server for connecting that server as slave to Jenkins master. Before running command, you  have to download agent.jar file into remote server. You can download the jar by Running *wget* command. 
